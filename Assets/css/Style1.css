@@ -1,0 +1,112 @@
+body{
+    text-align: center;
+    color: #000f08;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body *{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+nav{
+    text-align: left;
+    padding: 1.25rem 4rem;
+    position: fixed static;
+    width: 100vw;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 0 1em;
+    vertical-align: middle;
+}
+
+.imagen{
+    padding: 1.25rem 0.025rem;
+    width: 43%;
+    margin: 0 auto;
+    top: 966px
+}
+
+#veganDB{
+    margin 1em;
+    text-align: left;
+    margin: 0 auto;
+    top: 328px;
+    letter-spacing: 0px;
+}
+
+
+h1{
+    font-weight: 800;
+    font-size: 1.7em;
+    text-align: left;
+    margin: 0 auto;
+    width: 43%;
+    margin-bottom: 1.5em;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 1.5em;
+    text-align: left;
+    margin: 1.2rem;
+    width: 43%;
+    margin-bottom: 1.5em;
+}
+
+.header{
+    background: #000000;
+    color: #ffffff;
+}
+
+.oscuro{
+    background: #000f08;
+    color: #ffffff;
+}
+
+.oscuro a{
+    color:#ffffff;
+    text-decoration: none;
+}
+
+section, footer {
+    margin-top: 75px;
+}
+
+footer{
+    padding: 50px;
+}
+
+footer i{
+    margin: 0 0.25em 0.5em 0.25em; 
+}
+
+.Icono {
+    width: 2rem;
+}
+
+.Icono svg{
+    fill: #ffffff;
+}
+
+.content {
+    width: 43%;
+    text-align: left; 
+    font-size: 15px;
+    margin: 0 auto; 
+    letter-spacing: 0.5px
+    font:normal
+}
+
+.parrafo { 
+    margin-top: .5rem;
+    font-weight: 400px   
+}
